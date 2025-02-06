@@ -23,4 +23,4 @@ A beautifully designed and fully responsive **E-commerce Product Card** built wi
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Alokverma01/Card-design.git
